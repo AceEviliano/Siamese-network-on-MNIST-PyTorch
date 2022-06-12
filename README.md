@@ -3,8 +3,11 @@ Siamese network creates two virtually separate twin neworks whose goal is to cre
 
 The above has been implemented in a clearly descriptive jupyter notebook.
 
-## Architecture
-
-## Minimization Objective
-
 ## Results
+Below is the similarity score for images as given by the network.
+![Similarity scores for pairs of images](assets/Results.png)
+
+## Requirements
+* Python 3.6
+* PyTorch <= 0.4
+* Matplotlib
